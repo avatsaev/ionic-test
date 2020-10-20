@@ -34,7 +34,7 @@
     "gulp-util": "^3.0.0",
     "jshint": "^2.9.1",
     "jshint-stylish": "^2.1.0",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.20",
     "lodash._basecopy": "latest",
     "merge-stream": "^1.0.0",
     "node-sass": "^3.4.2",
