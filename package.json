@@ -37,7 +37,7 @@
     "lodash": "^3.10.1",
     "lodash._basecopy": "latest",
     "merge-stream": "^1.0.0",
-    "node-sass": "^3.4.2",
+    "node-sass": "^4.14.1",
     "open": "0.0.5",
     "ripple-emulator": "^0.9.32",
     "run-sequence": "^1.1.5",
